@@ -67,9 +67,41 @@ Jupyter notebooks en los que se está trabajando o que están en sucio.
 ### 📁 notebooks_limpios
 Jupyter notebooks ya limpios y ordenados
 ### 📃 archivos principales
-- **notebooks_limpios\01_cronologia_cambios.ipynb**
+- `📃 notebooks_limpios\01_cronologia_cambios.ipynb`
+
+En este Jupyter notebook hemos realizado una cronología con los cambios y las decisiones que hemos realizado a lo largo del proyecto.
+- `📃 notebooks_limpios\02_primer_analisis.ipynb`
+
+En este Jupyter notebook se puede observar el primer análisis que realizamos y del que sacamos las conclusiones para la limpieza que se realiza después.
+
+- `📃 notebooks_limpios\03_limpieza_datos.ipynb`
+
+Archivo utilizado para la transformación de los datos.
+
+- `📃 notebooks_limpios\04_visualización_datos.ipynb`
+
+Jupyter notebook en el que se realizan las distintas gráficas para una visualizar las comparaciones de datos y sacar conclusiones.
+
+- `📃 notebooks_limpios\05_CSVtoMYSQL.ipynb`
+
+Con este archivo creamos una BBDD en nuestro servidor de SQL
+
+- `📃 notebooks_limpios\05.02_Querys_abc.sql`
+
+Archivo de SQL en el que guardamos consultas interesantes para nuestro análisis. 
 
 ## 🚀 Retos y Aprendizajes
+
+Durante el desarrollo del proyecto se identificaron varios retos clave:
+
+- **Limpieza y preparación de datos**: El dataset contenía errores, valores nulos y una categorización irregular, lo que requirió un trabajo exhaustivo de limpieza y estandarización para garantizar la fiabilidad del análisis.
+
+- **Transformación de variables cualitativas**: Fue necesario convertir respuestas abiertas y cualitativas en variables cuantificables para poder analizarlas con precisión.
+
+- **Elección adecuada de visualizaciones**: Se priorizaron gráficos claros y comprensibles, como barras y gráficos de sectores adaptados al tipo de variable.
+
+- **Enfoque en la utilidad del análisis**: El mayor reto fue seleccionar y sintetizar los datos de forma que aportaran valor al equipo directivo, facilitando la toma de decisiones basada en evidencia.
+
 ## 🔮 Next Steps
 
 - Proponemos a nuestro cliente realizar encuestas periódicas que incluyan factores como relaciones entre compañeros, equilibrio vida-trabajo, reconocimiento, etc.
