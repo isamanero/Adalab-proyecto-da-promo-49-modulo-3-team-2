@@ -55,8 +55,6 @@ Los datos de empleados fueron insertados en la base de datos siguiendo el modelo
 
 - **Matplotlib y Seaborn:** Para la creación de visualizaciones y gráficos.
 
-- **ETL:** Para automatizar el flujo de datos entre las fuentes y la base de datos.
-
 ## 🗃️ Archivos y carpetas:
 ### 📁 files
 En esta carpeta se encuentran los csv con los que hemos ido trabajando. El original, un raw, y el csv que hemos creado tras hacer la limpieza de datos. 
