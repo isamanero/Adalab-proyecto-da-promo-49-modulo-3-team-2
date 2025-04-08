@@ -4,11 +4,17 @@
 
 Proyecto desarrollado por Isa Mañero, Andrea Gauger, María Guisado y Adriana Arcidiacono de la empresa Letal Insight Company a petición de ABC Corporation.
 
-## 🎯 Objetivo:
+## 🎯 Objetivos:
 
 ABC nos solicita un proyecto de análisis de datos. Nuestra labor consiste en identificar los factores que más influyen en el bienestar laboral y, por extensión, en la fidelización del equipo. 
 
 Con este proyecto, nuestro cliente ABC Corporation busca disminuir la rotación de personal, aumentar la satisfacción del entorno laboral al igual que la retención del talento.
+
+Para ello, nos marcamos los siguientes objetivos:
+
+- Descubrir qué hace felices a los empleados. Identificar factores clave de satisfacción
+- Analizar su impacto en la retención de talento
+- Proporcionar recomendaciones basadas en datos.
 
 ## 📝  Implementación del proyecto:
 
@@ -109,6 +115,15 @@ Durante el desarrollo del proyecto se identificaron varios retos clave:
 - Detectar principales focos de insatisfacción y plantear mejoras, incluyendo encuestas breves de sugerencias de forma regular.
 
 ## 🏁 Conclusiones
+
+- **Rotación en hombres**: Mayor rotación y menor satisfacción laboral, especialmente en hombres por su mayor representación.
+
+- **Salarios bajos y rotación**: Puestos de salario bajo (Técnico de Laboratorio, Representante de Ventas) tienen mayor rotación y menor satisfacción.
+
+- **Factores de abandono**: Relacionado con salarios bajos, poca antigüedad, ausencia de viajes y baja satisfacción, especialmente en RRHH.
+
+- **Satisfacción variable**: Depende del puesto y departamento, es menor en quienes abandonan y desciende con los años en la empresa.
+
 El **65,3 %** de los empleados/as, se fueron en los primeros 5 años de trabajo, lo que muestra una rotación evidente de empelados/as.
 Casi el **82%** llevaba menos de 10 años en la empresa. ⟶ early attrition
 
