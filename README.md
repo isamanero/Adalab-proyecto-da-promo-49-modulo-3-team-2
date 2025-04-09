@@ -66,8 +66,6 @@ Los datos de empleados fueron insertados en la base de datos siguiendo el modelo
 En esta carpeta se encuentran los csv con los que hemos ido trabajando. El original, un raw, y el csv que hemos creado tras hacer la limpieza de datos. 
 ### 📁 imagenes
 Aquí hemos almacenado las imágenes de gráficas.
-### 📁 notebooks_in_progress
-Jupyter notebooks en los que se está trabajando o que están en sucio.
 ### 📁 notebooks_limpios
 Jupyter notebooks ya limpios y ordenados
 ### 📃 archivos principales
